@@ -12,21 +12,17 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href="https://youtube.com/channel/UCqj39oUDxJa6z4tC_tkn35w"><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href="https://www.instagram.com/hanipdevoloper"><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
-<h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
-</p>
-</p>
-<a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
 </p>
 <p align="center"> </p> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> </p> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </p> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </p>
  </p> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> </p> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </p> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- My Name Hanif
 </p>
 - Hello All 👋
 <br>
@@ -35,33 +31,38 @@
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
-<p align="center"><a href="https://github.com/HaikaltestBot123"><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/hanif518"><img src="https://github-readme-stats.vercel.app/api?username=hanif518&show_icons=true&theme=radical"></a></p>
 </div>
 
 ## CARA INSTALL DI TERMUX
 
-Run termux XM FIXED BY HAIKAL
-> pkg install update
-> pkg install upgrade
-> pkg install install nodejs
-> pkg install install libwebp
-> pkg install install mc
-> pkg install install ffmpeg
-> pkg install install wget
-> pkg install install tesseract
-> pkg install install nmap
-wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
+> pkg upgrade && pkg update
+
+> pkg install bash
+
+> pkg install nodejs
+
+> pkg install ffmpeg 
+
 > pkg install imagemagick
+
+> pkg install git
+
 > termux-setup-storage
+
 > cd /sdcard
-> cp -r nama folder bot /$HOME
+
+> cp -r nama file bot $HOME
+
 > cd
-> cd nama folder bot
-> npm install gify-cli -g
-> pkg install curl
-> curl -qs https://www.npmjs.com/install.sh|npm_install=6.14.11 sh
-> npm install -g npm
-> npm install - npm
+
+> ls
+
+> cd nama file
+
+> npm install
+
+> node main
 
 > ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
@@ -72,4 +73,4 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
 </div>
-</body># hw-bot-xm
+</body>
